@@ -15,11 +15,7 @@
     "bibtex-indexed-cite",
     "anchor-navigation-ex",
     "page-footer-ex",
-    "splitter",
-    "todo",
-    "copy-code-button",
-    "expandable-chapters-small",
-    "donate"
+    "splitter"
   ],
   "pluginsConfig": {
     "search-pro": {
@@ -47,7 +43,7 @@
       "multilingual": false
     },
     "ga": {
-      "token": "UA-131910384-1"
+      "token": "UA-131910384-3"
     },
     "prism": {
       "ignore": [
